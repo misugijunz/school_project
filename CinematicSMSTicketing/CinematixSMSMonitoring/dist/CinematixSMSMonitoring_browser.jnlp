@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.0+" codebase="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/C%3A/Users/Oz/Documents/NetBeansProjects/CinematixSMSMonitoring/dist/" href="CinematixSMSMonitoring_browser.jnlp">
+    <information>
+        <title>CinematixSMSMonitoring</title>
+        <vendor>${application.vendor}</vendor>
+        <homepage href="http://localhost:8082/servlet/org.netbeans.modules.javafx.project.JnlpDownloadServlet/C%3A/Users/Oz/Documents/NetBeansProjects/CinematixSMSMonitoring/dist/"/>
+        <description>CinematixSMSMonitoring</description>
+        <offline-allowed/>
+        <shortcut>
+            <desktop/>
+        </shortcut>
+    </information>
+    <resources>
+        <j2se version="1.5+"/>
+        <extension name="JavaFX Runtime" href="http://dl.javafx.com/1.2/javafx-rt.jnlp"/>
+        <jar href="CinematixSMSMonitoring.jar" main="true"/>
+    </resources>
+    <applet-desc name="CinematixSMSMonitoring" main-class="com.sun.javafx.runtime.adapter.Applet" width="200" height="200">
+        <param name="MainJavaFXScript" value="cinematixsmsmonitoring.Main">
+    </applet-desc>
+    <update check="background">
+</jnlp>
