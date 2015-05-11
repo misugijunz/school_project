@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=SemutLabirin()
+comment0.text=Creates\ a\ new\ instance\ of\ Kurakura\ \n
+comment1.params=b
+comment1.target=SemutLabirin(Binatang)
+comment2.params=jarak
+comment2.target=void\ majuSemut(double)
+comment3.target=boolean\ majukanan()
+comment4.target=boolean\ majukiri()
+comment5.params=input
+comment5.target=String\ kerjakan(String)
+numComments=6

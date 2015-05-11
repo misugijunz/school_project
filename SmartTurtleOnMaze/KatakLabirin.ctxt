@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KatakLabirin()
+comment0.text=Creates\ a\ new\ instance\ of\ Kurakura\ \n
+comment1.params=b
+comment1.target=KatakLabirin(Binatang)
+comment1.text=\nCreates\ a\ new\ instance\ of\ Katak\n\n@param\ b\ -\ the\ old\ animal\ that\ will\ give\ the\ attribute\ to\ new\ Katak\n\n
+comment2.params=jarak
+comment2.target=void\ lompat(double)
+comment3.target=boolean\ lompat2()
+comment3.text=\nmake\ Katak\ go\ forward\ by\ 2\ pixel\n\n@return\ boolean\ -\ true\ if\ Kurakura\ did\ this\ command\ and\ successfully\ and\ otherwise\n\n
+comment4.target=boolean\ lompat3()
+comment4.text=\nmake\ Katak\ go\ forward\ by\ 3\ pixel\n\n@return\ boolean\ -\ true\ if\ Kurakura\ did\ this\ command\ and\ successfully\ and\ otherwise\n\n
+comment5.params=input
+comment5.target=String\ kerjakan(String)
+comment5.text=\nmake\ the\ katak\ do\ their\ ability\ appropriate\ the\ input\n\n@param\ input\ -\ the\ string\ of\ command\n@return\ String\ -\ the\ condition\ after\ process\ the\ input\n\n
+numComments=6

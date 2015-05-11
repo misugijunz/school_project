@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=parent\ modal\ titlee\ name
+comment0.target=InformasiLabirin(java.awt.Frame,\ boolean,\ String,\ String)
+comment0.text=Creates\ new\ form\ InformasiLabirin\ \n
+comment1.target=void\ initComponents()
+comment1.text=This\ method\ is\ called\ from\ within\ the\ constructor\ to\ninitialize\ the\ form.\nWARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\nalways\ regenerated\ by\ the\ Form\ Editor.\n\n
+comment2.params=evt
+comment2.target=void\ selesaiActionPerformed(java.awt.event.ActionEvent)
+numComments=3
